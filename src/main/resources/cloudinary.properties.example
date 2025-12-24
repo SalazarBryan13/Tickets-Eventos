@@ -1,0 +1,4 @@
+cloudinary.cloud_name=tu_cloud_name
+cloudinary.api_key=tu_api_key
+cloudinary.api_secret=tu_api_secret
+
